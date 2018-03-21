@@ -2,7 +2,7 @@
 
 Es una proyecto basado en SexyLightBox de Eduardo D. Sada:
 
-/**
+
  * Sexy LightBox - for jQuery 1.3.2
  * @name      sexylightbox.v2.3.js
  * @author    Eduardo D. Sada - http://www.coders.me/web-html-js-css/javascript/sexy-lightbox-2
@@ -11,7 +11,7 @@ Es una proyecto basado en SexyLightBox de Eduardo D. Sada:
  * @copyright (c) 2009 Eduardo D. Sada (www.coders.me)
  * @license   MIT - http://es.wikipedia.org/wiki/Licencia_MIT
  * @example   http://www.coders.me/ejemplos/sexy-lightbox-2/
-*/
+
 
 # Code Example
 
