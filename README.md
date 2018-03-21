@@ -1,6 +1,17 @@
 # Synopsis
 
-Es una mejora del proyecto SexyLightBox
+Es una mejora del proyecto SexyLightBox de:
+/**
+ * Sexy LightBox - for jQuery 1.3.2
+ * @name      sexylightbox.v2.3.js
+ * @author    Eduardo D. Sada - http://www.coders.me/web-html-js-css/javascript/sexy-lightbox-2
+ * @version   2.3.4
+ * @date      10-Nov-2009
+ * @copyright (c) 2009 Eduardo D. Sada (www.coders.me)
+ * @license   MIT - http://es.wikipedia.org/wiki/Licencia_MIT
+ * @example   http://www.coders.me/ejemplos/sexy-lightbox-2/
+*/
+
 # Code Example
 
 ## Imagenes
