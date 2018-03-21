@@ -1,6 +1,7 @@
 # Synopsis
 
-Es una mejora del proyecto SexyLightBox de:
+Es una proyecto basado en SexyLightBox de Eduardo D. Sada:
+
 /**
  * Sexy LightBox - for jQuery 1.3.2
  * @name      sexylightbox.v2.3.js
