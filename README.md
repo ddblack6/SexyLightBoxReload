@@ -52,12 +52,13 @@ DEMO: http://grafica360.net/SexyLightBoxReload/
 </a>
 ```
 
-##AJAX Content
+## AJAX Content
 
-*Get data!
-*Login Box
-*Shake Effect
-*AlertBox
+* Get data!
+* Login Box
+* Shake Effect
+* AlertBox
+
 ```html
 <a href="demo-data.html?height=140&width=480"  rel="sexylightbox" title="Contenido cargado via AJAX.">Get data</a>
 
