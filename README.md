@@ -10,10 +10,13 @@ Es una proyecto basado en SexyLightBox de Eduardo D. Sada:
  * @date      10-Nov-2009
  * @copyright (c) 2009 Eduardo D. Sada (www.coders.me)
  * @license   MIT - http://es.wikipedia.org/wiki/Licencia_MIT
- * @example   http://www.coders.me/ejemplos/sexy-lightbox-2/
+ * @example   http://grafica360.net/SexyLightBoxReload/
 
 
 # Code Example
+
+DEMO: http://grafica360.net/SexyLightBoxReload/
+
 
 ## Imagenes
 ```html
