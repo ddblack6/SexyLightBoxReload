@@ -52,6 +52,22 @@ DEMO: http://grafica360.net/SexyLightBoxReload/
 </a>
 ```
 
+##AJAX Content
+
+*Get data!
+*Login Box
+*Shake Effect
+*AlertBox
+```html
+<a href="demo-data.html?height=140&width=480"  rel="sexylightbox" title="Contenido cargado via AJAX.">Get data</a>
+
+<a href="demo-login.html?height=150&width=350" rel="sexylightbox" >Login Box</a>
+
+<a href="demo-shake.html?height=150&width=350" rel="sexylightbox" >Shake Effect</a>
+
+<a href="demo-alert.php?height=90&width=430&modal=1&background=black" rel="sexylightbox" >AlertBox</a>
+```
+
 ## Animated Gifs
 ```html
 <a href="images/yo.gif"  rel="sexylightbox" >
